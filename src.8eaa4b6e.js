@@ -16,4 +16,4 @@ var t=arguments[3],e="Expected a function",n=NaN,r="[object Symbol]",i=/^\s+|\s+
 },{"./apiService.js":"eQwa","../templates/card.hbs":"BqeE","lodash.debounce":"PZFh"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/gallery-render.js");
 },{"./sass/main.scss":"clu1","./js/gallery-render.js":"mFKD"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.8eaa4b6e.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder/src.8eaa4b6e.js.map
